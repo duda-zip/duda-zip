@@ -6,15 +6,15 @@
   <a href="mailto:mariaeduarda.dev1@gmail.com"><img src="https://img.shields.io/badge/E--mail-Vamos_conversar-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Entre em contato por e-mail" /></a>
   <a href="https://github.com/duda-zip?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Meus_projetos-181717?style=flat-square&logo=github&logoColor=white" alt="Explore meus repositórios" /></a>
 </p>👩‍💻 Sobre mim
-Sou Maria Eduarda Pereira Santos, estudante de Técnico em Informática e formada em Informática para Internet. Meu foco é crescer como Desenvolvedora Web / Front-End Júnior, criando interfaces que combinem usabilidade, acessibilidade e uma boa experiência para quem as utiliza.
-- 🎓 Curso Técnico em Informática na Fundação Salvador Arena, com conclusão prevista para dezembro de 2026.
-- 💻 Sou formada em Técnico em Informática para Internet pela ETEC Lauro Gomes, concluído em junho de 2025.
-- 🛠️ Atuo como estagiária de TI / Suporte Técnico na OPTEC IT, desde março de 2026.
-- 🌱 Tenho conhecimentos em HTML, CSS, JavaScript, PHP, Java, MySQL e SQL Server.
-- 🎨 Gosto de unir programação, criatividade e atenção à experiência do usuário.
-- 🌍 Tenho inglês avançado, com formação no Yázigi Assunção.
-- 📍 Moro em São Bernardo do Campo — SP.
-A experiência com suporte técnico me ajuda a compreender as necessidades dos usuários, investigar problemas e pensar em soluções práticas.
+Sou Maria Eduarda Pereira Santos, estudante de Técnico em Informática e formada em Informática para Internet. Meu foco é crescer como Desenvolvedora Web / Front-End Júnior, criando interfaces que combinem usabilidade, acessibilidade e uma boa experiência para quem as utiliza.<br>
+- 🎓 Curso Técnico em Informática na Fundação Salvador Arena, com conclusão prevista para dezembro de 2026.<br>
+- 💻 Sou formada em Técnico em Informática para Internet pela ETEC Lauro Gomes, concluído em junho de 2025.<br>
+- 🛠️ Atuo como estagiária de TI / Suporte Técnico na OPTEC IT, desde março de 2026.<br>
+- 🌱 Tenho conhecimentos em HTML, CSS, JavaScript, PHP, Java, MySQL e SQL Server.<br>
+- 🎨 Gosto de unir programação, criatividade e atenção à experiência do usuário.<br>
+- 🌍 Tenho inglês avançado, com formação no Yázigi Assunção.<br>
+- 📍 Moro em São Bernardo do Campo — SP.<br>
+A experiência com suporte técnico me ajuda a compreender as necessidades dos usuários, investigar problemas e pensar em soluções práticas.<br>
 🧰 Tecnologias e conhecimentos
 Desenvolvimento Web
 <p>
